@@ -12,7 +12,7 @@
 ### 👨‍💻 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (Estácio)**
-- 💼 Já atuei em projetos com **Python**, automação e análise de dados
+- 💼 Já atuei em projetos com **JAVA**, automação e análise de dados
 - 📚 Foco atual: **Back‑end**, **Algoritmos de Otimização**, **Jupyter Notebooks**
 
 ---
@@ -47,7 +47,7 @@
 ### 📫 Como me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A3o-j%C3%BAnior-741b611)
-- 📧 E‑mail: insira.seu@email.com
+- 📧 E‑mail: sebastiaoj1993@gmail.com
 
 ---
 
