@@ -12,6 +12,7 @@
 ### 👨‍💻 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (Estácio)**
+- 🎓 Pos-Graduado em **Desenvolvimento web full stack** (Anhanguera)**
 - 💼 Já atuei em projetos com **JAVA**, automação e análise de dados
 - 📚 Foco atual: **Back‑end**, **Algoritmos de Otimização**, **Jupyter Notebooks**
 
