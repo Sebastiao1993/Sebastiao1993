@@ -58,7 +58,7 @@
 ### 📫 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A3o-j%C3%BAnior-741b611)
-- 📧 Email: seuemail@email.com *(adicione aqui seu e-mail profissional)*
+- 📧 Email: sebastiaoj1993@gmail.com *(adicione aqui seu e-mail profissional)*
 
 ---
 
