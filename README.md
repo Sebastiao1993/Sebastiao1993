@@ -46,8 +46,9 @@
 
 ### 📫 Como me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sebastião-júnior-741b611)
+- 💼 [LinkedIn](https://www.linkedin.com/sebastião-júnior-741b611)
 - 📧 E‑mail: sebastiaoj1993@gmail.com
+- contato: (47) 99271-5905
 
 ---
 
