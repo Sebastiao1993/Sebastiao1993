@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Estudante%20ADS-red" alt="Estudante de ADS" />
 </p>
 
-<p align="center">Apaixonado por otimização e desenvolvimento com foco em Python 🚀</p>
+<p align="center">Apaixonado por otimização e desenvolvimento com foco em JAVA 🚀</p>
 
 ---
 
