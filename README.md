@@ -1,48 +1,37 @@
 <h1 align="center">Olá, eu sou o Sebastião 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Desenvolvedor%20Web-blue" alt="Desenvolvedor Web" />
-  <img src="https://img.shields.io/badge/Estudante%20ADS-red" alt="Estudante de Análise e Desenvolvimento de Sistemas" />
+  <img src="https://img.shields.io/badge/Desenvolvedor%20Web‑Backend-blue" alt="Dev Web/Back‑end" />
+  <img src="https://img.shields.io/badge/Estudante%20ADS-red" alt="Estudante de ADS" />
 </p>
 
-<p align="center">Atualmente estudando para entrar no mercado de tecnologia 🚀</p>
+<p align="center">Apaixonado por otimização e desenvolvimento com foco em Python 🚀</p>
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas (Estácio)**  
-- 💼 Formação em Administração + MBA em Desenvolvimento Full Stack  
-- 📚 Foco em **Desenvolvimento Web** e **Análise de Dados**
-- 🌱 Atualmente aprendendo: **Java | Spring Boot | SQL | Python | Power BI**
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (Estácio)**
+- 💼 Já atuei em projetos com **Python**, automação e análise de dados
+- 📚 Foco atual: **Back‑end**, **Algoritmos de Otimização**, **Jupyter Notebooks**
 
 ---
 
-### 🧰 Tecnologias
+### 🛠 Linguagens e Tecnologias (reais nos seus projetos)
 
-#### 💻 Linguagens & Frameworks
-
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
-#### 🛠️ Ferramentas & Banco de Dados
-
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/-Jupyter‑PNG-F37626?logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/-Git‑Versionamento-orange?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub%20Repos‑Online-181717?logo=github&logoColor=white)
 
 ---
 
 ### 📂 Repositórios em Destaque
 
-| Projeto | Tecnologias | Descrição |
-|--------|-------------|-----------|
-| [**CRUD-Java**](https://github.com/Sebastiao1993/CrudJava) | Java, Spring | Exemplo de CRUD com Spring |
-| [**Agenda Contatos**](https://github.com/Sebastiao1993/AgendaContatos) | Java | Sistema de agenda simples |
-| [**Outros Projetos**](https://github.com/Sebastiao1993?tab=repositories) | 🔍 | Explore mais projetos no meu perfil! |
+| Projeto            | Tecnologias                   | Descrição                                                                 |
+|-------------------|-------------------------------|---------------------------------------------------------------------------|
+| **TwilightGroup** | Python, Jupyter Notebook      | Projeto sobre Inteligência Computacional aplicado à Otimização :contentReference[oaicite:1]{index=1} |
+| **Outros projetos** | —                             | Acesse meu perfil para explorar mais: [meus repositórios](https://github.com/Sebastiao1993?tab=repositories) |
 
 ---
 
@@ -55,27 +44,12 @@
 
 ---
 
-### 📫 Contato
+### 📫 Como me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A3o-j%C3%BAnior-741b611)
-- 📧 Email: sebastiaoj1993@gmail.com *(adicione aqui seu e-mail profissional)*
+- 📧 E‑mail: insira.seu@email.com
 
 ---
 
-⭐ Obrigado por visitar meu perfil!  
+⭐ Obrigado por visitar meu perfil!
 
-
-<!--
-**Sebastiao1993/Sebastiao1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
