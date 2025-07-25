@@ -1,36 +1,15 @@
-<h1 align="center">Olá, eu sou o Sebastião Júnior 👋</h1>
+👋 Olá! Sou o Sebastião Júnior, desenvolvedor backend com foco em Java e Spring Boot.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Analista%20de%20Sistemas-blue" />
-  <img src="https://img.shields.io/badge/Desenvolvedor%20Java-yellow" />
-  <img src="https://img.shields.io/badge/Análise%20de%20Dados-red" />
-</p>
+🚀 Tecnologias principais:
+- Java 8+ / Spring Boot / JPA / Hibernate
+- MySQL / SQL Server
+- Relatórios com Jasper
+- Git, Zabbix, Azure
 
-<p align="center">Profissional de TI com experiência em <strong>Desenvolvimento de Sistemas</strong> e <strong>Análise de Dados</strong>, com foco em soluções funcionais e visão estratégica 🚀</p>
+📚 Atualmente estudo Análise e Desenvolvimento de Sistemas e possuo MBA em Full Stack.
 
----
-
-## 👨‍💻 Sobre mim
-
-- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** – Estácio (em andamento)
-- 🎓 **MBA em Desenvolvimento Full Stack** – Anhanguera (concluído)
-- 🎓 **Bacharel em Administração** – Estácio (concluido) (2015)
-- 💼 Experiência com **Java + Spring Boot**, **SQL**, **relatórios com Jasper**, e **infraestrutura**
-- 📊 Já atuei com **Power BI, MySQL, SQL Server, Zabbix, Azure**
-- 👨‍🔧 Experiência real com desenvolvimento de funcionalidades, correções de bugs e automações
-
----
-
-## 🛠 Tecnologias e Ferramentas
-
-**Linguagens & Frameworks:**
-
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=spring&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+📫 Contato: sebastiaoj1993@gmail.com
+k)
 
 **Ferramentas & Banco de Dados:**
 
