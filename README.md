@@ -1,7 +1,7 @@
 👋 Olá! Sou o Sebastião Júnior, desenvolvedor backend com foco em Java e Spring Boot.
 
 🚀 Tecnologias principais:
-- Java 8+ / Spring Boot / JPA / Hibernate
+- Java 8+ / Python / Spring Boot / JPA / Hibernate
 - MySQL / SQL Server
 - Relatórios com Jasper
 - Git, Zabbix, Azure
