@@ -1,7 +1,7 @@
-👋 Olá! Sou o Sebastião Júnior, desenvolvedor backend com foco em Java e Spring Boot.
+👋 Olá! Sou o Sebastião Júnior, desenvolvedor backend com foco em PHP, Java e Spring Boot.
 
 🚀 Tecnologias principais:
-- Java 8+ / Python / Spring Boot / JPA / Hibernate
+- PHP / Java 8+ / Python / Spring Boot / laravel / JPA / Hibernate
 - MySQL / SQL Server
 - Relatórios com Jasper
 - Git, Zabbix, Azure
@@ -9,7 +9,7 @@
 📚 Atualmente estudo Análise e Desenvolvimento de Sistemas e possuo MBA em Full Stack.
 
 📫 Contato: sebastiaoj1993@gmail.com
-k)
+
 
 **Ferramentas & Banco de Dados:**
 
@@ -29,7 +29,7 @@ k)
 
 - **Você Telecom (2015–2019):** Análise de dados, relatórios SQL, suporte operacional
 - **Connect Service (2021):** Infraestrutura, Azure, Zabbix, redes
-- **AlgTec (2024–2025):** Desenvolvimento com Java 8+, Spring Boot, Jasper, MySQL e SQL Server
+- **AlgTec (2024–2025):** Desenvolvimento com Java 8+, PHP, Spring Boot, Jasper, MySQL e SQL Server
 
 ---
 
